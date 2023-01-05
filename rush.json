@@ -421,5 +421,10 @@
     //   "reviewCategory": "tools",
     //   "tags": [ "tools" ]
     // }
+    {
+      "packageName": "foo",
+      "projectFolder": "foo",
+      "reviewCategory": "tools"
+    }
   ]
 }
