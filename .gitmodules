@@ -1,0 +1,3 @@
+[submodule "graphql-extra-scalars"]
+	path = graphql-extra-scalars
+	url = git@github.com:stekycz/graphql-extra-scalars.git
